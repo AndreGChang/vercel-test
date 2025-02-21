@@ -9,20 +9,13 @@
 
 .image-gif {
   position: center;
-  width: 50%;
+  width: 75%;
   height: 50%;
-  background-image: url('./assets/steve-no-escape-minecraft-steve-panic-minecraft.gif');
-  background-size: cover;
+  background-image: url('./assets/minecraft-minecraft-memes.gif');
+  background-size: auto;
 }
 
 .image-gif h1 {
   color: white;
 }
 
-.minecraft-site {
-  width: 50%;
-}
-
-.minecraft-site iframe{
-  width: 100%;
-}
